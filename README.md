@@ -38,3 +38,4 @@ Typescript-Mini-Backend/
 ├── package-lock.json                      # Locked dependency tree
 ├── tsconfig.json                          # TypeScript compiler settings
 └── README.md                              # Project documentation
+
